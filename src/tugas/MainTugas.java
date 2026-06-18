@@ -1,3 +1,5 @@
+// Nama: Muhammad Fitri
+// NPM : 2410010204
 package tugas;
 
 public class MainTugas {
